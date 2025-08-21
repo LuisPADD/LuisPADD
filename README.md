@@ -47,8 +47,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisPADD&show_icons=true&theme=midnight-" alt="GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPADD&layout=compact&theme=midnight-" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisPADD&show_icons=true&theme=dark-" alt="GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPADD&layout=compact&theme=dark-" />
 </div><br>
 
 <div align="center"> 
